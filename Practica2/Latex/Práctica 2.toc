@@ -1,0 +1,23 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Problema de Aprendizaje de Pesos en Características}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Descripción del problema}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Datos utilizados}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Aplicación de los algoritmos}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Algoritmos para evaluar las soluciones}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Algoritmos para calcular las distancias}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Algoritmos para predecir las etiquetas}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Otros algoritmos}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Algoritmos utilizados en los algoritmos genéticos}{6}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Descripción de los algoritmos}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Algoritmos genéticos}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Algoritmos meméticos}{13}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Algoritmos de comparación}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}1-NN}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Greedy: RELIEF}{15}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Búsqueda Local}{16}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Desarrollo de la práctica}{18}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Manual de usuario}{19}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Experimentos y análisis de resultados}{20}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Resultados}{20}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Gráficas de los algoritmos}{22}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Análisis de los resultados}{25}{subsection.6.3}%
